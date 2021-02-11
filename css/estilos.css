@@ -343,8 +343,10 @@ footer{
   transition: 0.5s;
 }
 
-.whatsapp a:hover img:hover {
-  color: #fff;
-    width:70;
-    height:70;
+.whatsapp img:hover {
+  -webkit-transform:scale(1.5);
+  -moz-transform:scale(1.5);
+  -ms-transform:scale(1.5);
+  -o-transform:scale(1.5);
+  transform:scale(1.5);
 }
