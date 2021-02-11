@@ -344,7 +344,7 @@ footer{
   transition: 0.3s;
 }
 
-.whatsapp a:hover {
+.whatsapp a:hover img {
   color: #fff;
     width:70;
     height:70;
