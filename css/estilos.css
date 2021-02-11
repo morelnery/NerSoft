@@ -326,7 +326,6 @@ footer{
   bottom: 0;
   padding: 15px;
   text-align: right;
-  font-size: 13px;
   color: #fff;
   z-index: 999999;
 }
@@ -341,10 +340,10 @@ footer{
 
 .whatsapp a {
   color: #18d26e;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
-.whatsapp a:hover img {
+.whatsapp a:hover img:hover {
   color: #fff;
     width:70;
     height:70;
